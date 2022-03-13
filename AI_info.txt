@@ -1,2 +1,5 @@
 Information about AI(Artificial Intelligence)
 
+1. Artificial intelligence (AI) is intelligence demonstrated by machines, 
+   as opposed to natural intelligence displayed by animals including humans.
+
